@@ -1,1 +1,1 @@
-# ksp_jshell_vscode_extensions_release
+# kspnew-trainers
